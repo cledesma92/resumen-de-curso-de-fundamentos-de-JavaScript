@@ -895,5 +895,3 @@ async function respuestasEnParalelo() {
 
 respuestasEnParalelo();
 ```
-
-## La importancia de `reduce()`
