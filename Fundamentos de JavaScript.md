@@ -652,16 +652,16 @@ Formato tradicional para intercambio de datos.
 español | _notación de objetos de JavaScript_
 Formato mas usado actualmente para intercambio de datos.
 
-r**equest–response**
+**request–response**
 español | _solicitud-respuesta_
 En informática, solicitud-respuesta o solicitud-respuesta es uno de los métodos básicos que utilizan las computadoras para comunicarse entre sí en una red, en el que la primera computadora envía una solicitud de algunos datos y la segunda responde a la solicitud.
 
 **CDN (Content Delivery Network)**
-español | r*ed de distribución de contenido*
+español | *red de distribución de contenido*
 Es una plataforma de servidores altamente distribuida que ayuda a minimizar los retrasos en la carga de contenidos proporcionándonos los archivos desde la locación en el planeta mas cercana de la que se haga el request.
 
 **minified**
-español | m*inificación*
+español | *minificación*
 Es el proceso de eliminar todos los caracteres innecesarios del código fuente sin cambiar su funcionalidad.
 
 ### Códigos de estado
